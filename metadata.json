@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "A modern, responsive calculator application with standard arithmetic, scientific functions, keyboard support, history, and sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
